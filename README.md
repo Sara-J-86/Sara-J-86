@@ -3,7 +3,7 @@
 I'm Sara Joshi!
 
 🎓 **About Me**  
-- Third-year B.Tech IT student at NMIMS, Mumbai  
+- B.Tech IT student at NMIMS, Mumbai  
 - Passionate about Machine Learning, Data Science, Development, and interdisciplinary research  
 - Actively writing technical blogs on Medium  
 - Open to research internships and collaborations  
