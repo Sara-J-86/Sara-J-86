@@ -32,7 +32,7 @@ I'm Sara Joshi!
 - **Languages:** Python, C++, Java, JavaScript, HTML/CSS, SQL  
 - **Tools:** Firebase, Tableau, Power BI, Android Studio, Unity 3D  
 - **Frameworks:** TensorFlow, Keras  
-- **Platforms:** VS Code, GitHub, Google Colab  
+- **Platforms:** VS Code, GitHub, Google Colab, Jupyter, Unity
 
 ---
 
