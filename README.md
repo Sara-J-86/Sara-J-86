@@ -11,6 +11,8 @@ I'm Sara Joshi!
 📫 **Contact Me**  
 - Email: sara.j.08604@gmail.com
 
+- Linkedin: [linkedin.com/sarajoshi](https://www.linkedin.com/in/sara-joshi-58a144337/)
+
 📝 **Blog**
 - Medium: [medium.com/@sara.j.080604](https://medium.com/@sara.j.080604)  
 - 📍 Mumbai, India  
